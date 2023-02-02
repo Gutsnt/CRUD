@@ -4,9 +4,10 @@ import styles from './page.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
+
  const  Home = () => {
   return (
-    <div>
+    <div className=''>
       gol
     </div>
   )
